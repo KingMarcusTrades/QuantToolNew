@@ -1,0 +1,10 @@
+streamlit
+numpy
+yfinance
+plotly
+scikit-learn
+qiskit-machine-learning
+qiskit-algorithms
+streamlit-autorefresh
+nltk
+pandas
